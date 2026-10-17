@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "asval main",
+      "replace_ids": [
+        110851932589511
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\lehzi\\Downloads\\jael\\test.obj"
+    },
+    {
+      "name": "handguard as val",
+      "replace_ids": [
+        137629497500873
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\lehzi\\OneDrive\\Documentos\\handguard.obj"
+    },
+    {
+      "name": "asval barrel",
+      "replace_ids": [
+        138309213259783
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\lehzi\\Downloads\\jael\\barrel asval.obj"
+    }
+  ]
+}
